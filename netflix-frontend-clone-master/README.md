@@ -2,9 +2,7 @@
 <h1 align="center">Netflix Frontend Clone</h1>
 <p align="center">Video streaming website Netflix Frontend clone, Built with Pure CSS3 using Flexbox, JS dependencies: OwlCarousel and JQuery</p>
 
-<p align="center">
-	clone&hashtags=javascript,opensource,js,webdev,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="30"/></a>
-</p><br/><br/>
+
 
 <button> hello </button>
 
